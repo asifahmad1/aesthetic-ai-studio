@@ -1,0 +1,21 @@
+[
+  "tests/test_api.py::test_api_export_endpoints",
+  "tests/test_api.py::test_api_project_round_trip",
+  "tests/test_contract.py::test_all_six_themes_have_required_keys",
+  "tests/test_contract.py::test_build_slides_count_and_layout_variety",
+  "tests/test_contract.py::test_generator_layout_catalog",
+  "tests/test_contract.py::test_offline_outline_shape",
+  "tests/test_contract.py::test_sample_deck_shape",
+  "tests/test_contract.py::test_schema_accepts_valid_project",
+  "tests/test_contract.py::test_schema_rejects_invalid_project",
+  "tests/test_exports.py::test_export_validation_dict_structure",
+  "tests/test_exports.py::test_exporters_never_claim_false_success",
+  "tests/test_exports.py::test_html_export_contains_all_titles",
+  "tests/test_exports.py::test_html_export_is_standalone",
+  "tests/test_exports.py::test_pdf_export_page_count_and_header",
+  "tests/test_exports.py::test_pdf_text_is_selectable",
+  "tests/test_exports.py::test_pptx_export_validates_and_opens",
+  "tests/test_exports.py::test_pptx_image_placeholders",
+  "tests/test_exports.py::test_pptx_tables_and_bullets_and_notes",
+  "tests/test_exports.py::test_pptx_uses_native_editable_text_not_screenshots"
+]
